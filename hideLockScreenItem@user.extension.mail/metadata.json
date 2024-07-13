@@ -2,7 +2,8 @@
   "description": "Hide Lock Screen Item from Show Apps Menu",
   "name": "Hide Lock Screen Item from Show Apps Menu",
   "shell-version": [
-    "42"
+    "45",
+    "46"
   ],
   "url": "",
   "uuid": "hideLockScreenItem@user.extension.mail",
